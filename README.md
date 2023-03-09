@@ -1,4 +1,4 @@
-# SignLanguageRecognition
+# Sign Language Recognition
 
 
 Topic: 
