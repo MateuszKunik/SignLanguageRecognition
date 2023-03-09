@@ -7,6 +7,8 @@ Topic:
 - real-time application that allows you to understand what a deaf person wants to convey
 - task type: image classification 
 
+Brief video:
+https://youtu.be/wrLvbqMOfKc
 
 Authors: Mateusz Kunik, Mateusz Religa, Dominik Mikulski, Joanna Witek, Joanna Borowa 
 
